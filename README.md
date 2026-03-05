@@ -4,7 +4,7 @@ A production-grade, resume-level SaaS application that simulates realistic techn
 
 ![InterviuX](https://img.shields.io/badge/version-1.0.0-blue)
 ![React](https://img.shields.io/badge/React-18-blue)
-![Node.js](https://img.shields.io/badge/Node.js-18+-green)
+![Node.js](https://img.shields.io/badge/Node.js-18+-green) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue)
 
 ## Features
