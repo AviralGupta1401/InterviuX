@@ -19,7 +19,7 @@ A production-grade, resume-level SaaS application that simulates realistic techn
 ## Tech Stack
 
 ### Frontend
-- React 18
+- React 18 
 - Vite
 - TypeScript
 - TailwindCSS
