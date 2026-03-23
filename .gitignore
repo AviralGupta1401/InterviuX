@@ -36,3 +36,8 @@ coverage/
 
 # Misc
 *.tgz
+
+# Docs (kept locally, hidden from GitHub)
+IMPLEMENTATION_PLAN.md
+PROJECT_OVERVIEW.md
+docs/
