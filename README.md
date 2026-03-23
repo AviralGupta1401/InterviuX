@@ -24,7 +24,7 @@ A production-grade, resume-level SaaS application that simulates realistic techn
 - TypeScript
 - TailwindCSS
 - Framer Motion
-- Recharts
+- Recharts 
 - React Router
 
 ### Backend
