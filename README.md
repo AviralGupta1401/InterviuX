@@ -7,7 +7,7 @@ A production-grade, resume-level SaaS application that simulates realistic techn
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue)
 
-## Features
+## Features 
 
 - 🎙️ **Voice Interaction**: Practice with voice input using Web Speech API
 - 🤖 **AI-Powered Evaluation**: Get real-time feedback from AI interviewer
